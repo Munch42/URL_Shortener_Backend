@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "dev": "nodemon run ./src/app.js",
-    "go": "npm run ./src/app.js"
+    "go": "node ./src/app.js"
   },
   "keywords": [],
   "author": "Munch42",
