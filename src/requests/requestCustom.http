@@ -1,0 +1,7 @@
+POST http://localhost:3000/api/url/shorten
+Content-Type: application/json
+
+{
+    "targetURL": "https://www.logitechg.com/en-ca/products/gaming-keyboards/g513-backlit-mechanical-gaming-keyboard.920-009322.html",
+    "shortID": "keyboard"
+}
